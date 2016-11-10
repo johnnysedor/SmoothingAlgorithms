@@ -35,3 +35,5 @@ CTestTestfile.cmake
 *.exe
 *.out
 *.app
+
+build/*
